@@ -7,7 +7,7 @@ The kidneys filter waste and excess fluid from the blood. As kidneys fail, waste
 
 Source : https://www.kaggle.com/mansoordaku/ckdisease
 
-Attribute Information:
-We use 24 medical features + 1 class = 25 ( 11 numeric ,14 nominal)
+Several ML models have been implemented to check the accuracy.
+Dask dataframe has been implemented to make the execution process faster since all the 8 cores have been utilized.
 
 
